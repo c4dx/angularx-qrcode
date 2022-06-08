@@ -1,4 +1,5 @@
 # angularx-qrcode - Angular QR Code Generator
+# forked by c4dx
 
 `angularx-qrcode` - a fast and easy-to-use Ivy compatible Ionic and Angular QR Code Generator library
 
